@@ -1,0 +1,13 @@
+*.vcxproj
+*.suo
+*.db
+*.opendb
+*.ipch
+*.exe
+*.lik
+*.log
+*.pdb
+*.obj
+*.idb
+*.tlog
+*.lastbuidstate
